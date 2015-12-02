@@ -1,0 +1,5 @@
+1, 200, Food
+1, 150, Entertainment
+2, 300, Food
+2, 100, Food
+5, 250, Travel
